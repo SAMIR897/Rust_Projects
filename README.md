@@ -10,7 +10,7 @@
 ---
 
 <a href="https://github.com/SAMIR897/bulk_token_sender">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/bulk_token_sender&mode=dark&style=horizontal" alt="bulk_token_sender" width="760"/>
+  <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/bulk_token_sender&mode=dark&style=verticle" alt="bulk_token_sender" width="760"/>
 </a>
 
 A high-performance Rust utility for efficient batch distribution of ERC-20 tokens and native assets. Executes transactions to hundreds of recipients in a single call, significantly reducing gas costs — ideal for **airdrops** and **payroll distributions**.
